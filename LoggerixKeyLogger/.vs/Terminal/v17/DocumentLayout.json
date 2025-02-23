@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\loggerixkeylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:loggerixkeylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\loggerixkeylogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:loggerixkeylogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|Terminal.csproj|g:\\github_nunonogueir444\\loggerix\\terminal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|Terminal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terminal",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\LoggerixKeyLogger.csproj",
+              "RelativeDocumentMoniker": "LoggerixKeyLogger.csproj",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\LoggerixKeyLogger.csproj",
+              "RelativeToolTip": "LoggerixKeyLogger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T12:17:31.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:05:26.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Terminal.csproj",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\LoggerixKeyLogger.csproj",
+              "RelativeDocumentMoniker": "LoggerixKeyLogger.csproj",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\LoggerixKeyLogger.csproj",
+              "RelativeToolTip": "LoggerixKeyLogger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T00:43:13.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:42:47.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:42:43.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\Loggerix\\Terminal\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:42:04.572Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

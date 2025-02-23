@@ -1,0 +1,9 @@
+D key pressed
+S key pressed
+A key pressed
+K key pressed
+L key pressed
+O key pressed
+RShiftKey key pressed
+P key pressed
+RShiftKey key released

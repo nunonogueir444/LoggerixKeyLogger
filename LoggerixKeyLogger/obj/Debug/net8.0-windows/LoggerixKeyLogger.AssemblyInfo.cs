@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoggerixKeyLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+213acaea7fa1ff7da77865c91c91af23a752bb7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbc9bf8babf87efb875abd34e8a8d9941ce47cec")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoggerixKeyLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoggerixKeyLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

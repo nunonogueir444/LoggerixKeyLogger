@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerixkeylogger\\loggerixkeylogger\\loggerixkeylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:loggerixkeylogger.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|g:\\github_nunonogueir444\\loggerixkeylogger\\loggerixkeylogger\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{978FFBBC-51BB-4391-91A7-8B1036D7A1AF}|LoggerixKeyLogger.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +42,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "LoggerixKeyLogger",
+              "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\LoggerixKeyLogger.csproj",
+              "RelativeDocumentMoniker": "LoggerixKeyLogger.csproj",
+              "ToolTip": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\LoggerixKeyLogger.csproj",
+              "RelativeToolTip": "LoggerixKeyLogger.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-01T20:39:47.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
@@ -46,12 +62,11 @@
               "RelativeToolTip": "MainForm.Designer.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:32:19.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:32:19.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -63,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -76,19 +91,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainForm.resx",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\MainForm.resx",
               "RelativeDocumentMoniker": "MainForm.resx",
               "ToolTip": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\MainForm.resx",
               "RelativeToolTip": "MainForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-02-23T12:31:17.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:31:17.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\GitHub_nunonogueir444\\LoggerixKeyLogger\\LoggerixKeyLogger\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -96,8 +110,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T12:31:10.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T12:31:10.868Z"
             }
           ]
         }
